@@ -1,5 +1,5 @@
-import Application from 'm4103-c/app';
-import config from 'm4103-c/config/environment';
+import Application from 'tds/app';
+import config from 'tds/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
